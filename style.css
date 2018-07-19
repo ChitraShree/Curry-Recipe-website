@@ -2,11 +2,11 @@ body{
   font: 20px/1.5 Viner Hand ITC,Tempus Sans ITC,Script MT;
   padding:0;
   margin:0;
-  //background-color:#228B22;
+  background-color:#FFFFFF;
 }
 
-#p1{
-  color : ;
+#p{
+  color :#000000;
 }
 
 /* Global */
@@ -21,26 +21,27 @@ ul{
   padding:0;
 }
 
+//SUBSCRIBE
 .button_1{
-  height:38px;
+  height:500px;
   background:#e8491d;
   border:0;
   padding-left: 20px;
   padding-right:20px;
-  color:#000000;
+  color:#ffffff;
 }
 
 .dark{
   padding:15px;
-  background:#35424a;
-  color:#ffffff;
+  background:#C0C0C0;
+  color:#000000;
   margin-top:10px;
   margin-bottom:10px;
 }
 
 /* Header **/
 header{
-  background:#808000;
+  background:#35424a;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -173,7 +174,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#000000;
-  background-color:#FF0000;
+  background-color:#35424a;
   text-align: center;
 }
 
